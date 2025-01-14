@@ -81,7 +81,7 @@ a {
 }
 
 .logo {
-  max-width: 120px;
+  max-width: 60px;
 }
 
 html,
@@ -116,6 +116,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
+  height: 44px;
   background-color: var(--primary-color);
 }
 
